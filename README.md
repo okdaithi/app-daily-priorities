@@ -9,9 +9,8 @@ A home-screen widget that shows your **3 priorities for the day**.
 
 ## Download & install
 
-**Latest APK:** `https://github.com/<your-user>/<your-repo>/releases/latest/download/DailyPriorities.apk`
+**Latest APK:** https://github.com/okdaithi/app-daily-priorities/releases/latest/download/DailyPriorities.apk
 
-(Replace `<your-user>/<your-repo>` with this repository's path — that link always points at the newest build.)
 
 1. Open the link on your Android phone (Android 8.0+).
 2. When prompted, allow your browser to **install unknown apps**.
