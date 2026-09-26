@@ -1,0 +1,10 @@
+<resources>
+    <color name="brand">#3F51B5</color>
+    <color name="brand_dark">#303F9F</color>
+    <color name="accent">#FF7043</color>
+    <color name="widget_bg">#F2FFFFFF</color>
+    <color name="widget_text">#212121</color>
+    <color name="widget_text_done">#9E9E9E</color>
+    <color name="widget_title">#3F51B5</color>
+    <color name="icon_bg">#3F51B5</color>
+</resources>

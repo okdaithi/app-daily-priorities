@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Priorities</string>
+    <string name="widget_name">Today\'s Priorities</string>
+    <string name="widget_title">Today\'s Priorities</string>
+    <string name="widget_description">Shows your top 3 priorities for the day</string>
+    <string name="widget_empty">Tap to set today\'s priorities</string>
+    <string name="screen_title">What matters most today?</string>
+    <string name="screen_subtitle">Enter up to three priorities. They appear on your home-screen widget. Tap one there to mark it done.</string>
+    <string name="hint_1">Priority 1</string>
+    <string name="hint_2">Priority 2</string>
+    <string name="hint_3">Priority 3</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear all</string>
+    <string name="reset_done">Un-check all</string>
+    <string name="saved">Priorities saved</string>
+    <string name="reset_done_toast">All priorities marked not done</string>
+    <string name="widget_tip">Tip: long-press your home screen, choose Widgets, then Daily Priorities to add the widget.</string>
+</resources>

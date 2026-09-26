@@ -1,0 +1,8 @@
+<resources>
+    <color name="brand">#9FA8DA</color>
+    <color name="brand_dark">#1A237E</color>
+    <color name="widget_bg">#F2212121</color>
+    <color name="widget_text">#EEEEEE</color>
+    <color name="widget_text_done">#757575</color>
+    <color name="widget_title">#9FA8DA</color>
+</resources>
